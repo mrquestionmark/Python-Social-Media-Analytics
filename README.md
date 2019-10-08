@@ -1,5 +1,7 @@
 # Python Social Media Analytics
 This is the code repository for [Python Social Media Analytics](https://www.packtpub.com/big-data-and-business-intelligence/python-social-media-analytics?utm_source=github&utm_medium=repository&utm_campaign=9781787121485), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+
+Test Test
 ## About the Book
 Social Media platforms such as Facebook, Twitter, Forums, Pinterest, and YouTube have become part of everyday life in a big way. However, these complex and noisy data streams pose a potent challenge to everyone when it comes to harnessing them properly and benefiting from them. This book will introduce you to the concept of social media analytics, and how you can leverage its capabilities to empower your business.
 
